@@ -1,4 +1,4 @@
 from VideoData import VideoData
 
-VideoData.encode()
-VideoData.decode()
+VideoData.encode('<file to decode>')
+VideoData.decode('<file to decode>')
